@@ -309,7 +309,7 @@ const styles = StyleSheet.create({
     backgroundColor: BLUE,
   },
   bottomButtonDisabled: {
-    backgroundColor: "#D3D9FF",
+    backgroundColor: "#FFD3C7",
   },
   bottomButtonText: {
     color: "#fff",
