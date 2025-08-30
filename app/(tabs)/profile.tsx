@@ -5,15 +5,15 @@ import { User } from 'lucide-react-native';
 export default function ProfileScreen() {
   return (
     <ScrollView style={styles.container}>
-      {/* Header del perfil */}
+      {/* Header del perfil del kevinpro */}
       <View style={styles.header}>
         <View style={styles.profileImageContainer}>
           <View style={styles.profileImage}>
             <Text style={styles.profileInitials}>JD</Text>
           </View>
         </View>
-        <Text style={styles.userName}>Juan Doe</Text>
-        <Text style={styles.userEmail}>juan.doe@email.com</Text>
+        <Text style={styles.userName}>Kevin Papi</Text>
+        <Text style={styles.userEmail}>kevinpro.@email.com</Text>
       </View>
 
       {/* Secciones del perfil */}
