@@ -1,0 +1,1 @@
+export const formatBs = (n: number) => `Bs. ${n.toFixed(2)}`;
